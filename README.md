@@ -21,7 +21,3 @@ By the end of the course, you will have the skills to build AI agents that can i
 - **Step-by-Step Guide**: Detailed instructions to guide you through each stage of the development process.
 - **Comprehensive Code Samples**: Access to all the necessary code samples and templates used throughout the course.
 - **Hands-On Projects**: Practical projects to apply what you've learned in real-world settings.
-
-
-## Enroll in the Course,  Access All Other Premium Content, and Get Support!
-
